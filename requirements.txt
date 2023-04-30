@@ -1,0 +1,6 @@
+torch
+transformers
+sentence-splitter
+SentencePiece
+open_clip_torch
+gradio
