@@ -16,4 +16,5 @@ An end to end Deep Learning based tool for image caption generation.
 
 ## **Preview:**
 
-[Screencast from 30-04-23 06:10:35 AM IST.webm](https://user-images.githubusercontent.com/53101134/235330033-95acbf0f-7705-44d9-8338-ee124d0cc27a.webm)
+
+[Screencast from 30-04-23 06:18:21 AM IST.webm](https://user-images.githubusercontent.com/53101134/235330278-84026bae-be7d-4ec2-b869-330452722005.webm)
