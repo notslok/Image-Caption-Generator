@@ -1,11 +1,13 @@
 # Image Caption Generator Tool
 
 #### An end to end Deep Learning based tool for image caption generation.
---------------------------------------------------------------------------------------------------
+<!-- -------------------------------------------------------------------------------------------------- -->
+<br/>
 
+#### *Made using:*
 [<img src="readme_files/gradio.svg" alt="gradio" width=100 height=100>](https://gradio.app)
 [<img src="readme_files/hf-logo-with-title.svg" alt="huggingface" width=100 height=100>](https://huggingface.co)
-[<img src="readme_files/python-logo-only.png" alt="python" width=100 height=100>](https://www.python.org)
+<!-- [<img src="readme_files/python-logo-only.png" alt="python" width=100 height=100>](https://www.python.org) -->
 
 
 ## **Executed Pipeline:**
